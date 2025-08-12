@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+/*Import font to be used in the web app*/
+@import "tailwindcss";
+/*Import TailWind*/
+
+*{
+  font-family: "Outfit", sans-serif;
+}
+
+/*No Scrollbar*/
+::-webkit-scrollbar{
+  display: none;
+}
